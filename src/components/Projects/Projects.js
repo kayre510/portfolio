@@ -25,7 +25,7 @@ function Projects() {
               isBlog={false}
               title="Chefs4U"
               description="Single page web application that connects private chefs to foodies. Built with React.js and Python, using PostgresSQL for the database."
-              ghLink="https://gitlab.com/chefs4u/chefs4u"
+              ghLink="https://github.com/kayre510/Chefs4U"
               demoLink="https://chefs4u.gitlab.io/chefs4u/"
             />
           </Col>
@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               title="Auto Service Now"
               description="Car dealership single page application built with React.js and Python. Created and integrated RESTful API's to communicate with the other microservices. "
-              ghLink="https://gitlab.com/kayresantos/autoservice-now"
+              ghLink="https://github.com/kayre510/autoservice-now"
             />
           </Col>
 
@@ -46,7 +46,7 @@ function Projects() {
               isBlog={false}
               title="Conference Connect"
               description="Conference Connect is a microservice-based web application to manage conferences, attendees, and conference locations built using React and Django. Implemented two third party APIs to retrieve weather data and photos for conference locations."
-              ghLink="https://gitlab.com/kayresantos/conference-connect"
+              ghLink="https://github.com/kayre510/conference-connect"
             />
           </Col>
         </Row>
