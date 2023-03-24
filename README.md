@@ -1,11 +1,6 @@
 
 
-## 🛠 Installation and Setup Instructions
+## Here is my portfolio:
 
-1. Installation: `npm install`
+This was built with react.js and styled with CSS. Deployed on vercel.com
 
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
